@@ -528,6 +528,7 @@ florin
 rupeeIndian
 sterling
 yen
+guarani
 divisionslash
 dotmath
 plus
